@@ -1,0 +1,43 @@
+
+
+.container{
+    margin-bottom: 100px;
+}
+.carousel-indicators li{
+    background-color: rgb(32, 119, 190);
+   
+    width: 25px;
+    height: 7px;
+    border: 2px;
+    border-radius: 5px;
+    
+}
+#navbarNav .bgc {
+    color:  rgb(32, 119, 190);
+}
+.card-body{
+    text-align: center;
+    border: 0px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 10px 10px 20px lightgray;
+}
+
+.linec{
+    background-color: steelblue;
+    width: 90px;
+    height: 10px;
+    border: 3px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.gray{
+    color: rgb(97, 95, 95);
+}
+.box-set{
+    border: 0px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 10px 10px 20px lightgray;
+}
